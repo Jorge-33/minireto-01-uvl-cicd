@@ -1,6 +1,6 @@
 id,title,author,description,file
 bicycle,Bicycle,EGC Team,A small bicycle feature model,bicycle.uvl
-pizza,Pizza,EGC Team,A configurable pizza,pizza.uvl
+pizza,Pizza,Profesor,A configurable pizza,pizza.uvl
 telefono inteligente,telefono inteligente,Jorge,A configurable smartphone,smartphone.uvl
 
 
